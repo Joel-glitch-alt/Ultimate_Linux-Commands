@@ -105,7 +105,8 @@ userdel -r username
 groupadd groupname
 
 ### Deleting group
-sudo groupdel group_name```
+```bash
+sudo groupdel group_name
 
 ### Adding Users to Groups
 ```bash
